@@ -1,4 +1,4 @@
-# All my Completed Projects at Markel during the Summer of 2019
+# All Completed Projects at Markel during 2019 Summer
 
 ## Binding E&S Personal Property
 
